@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/pawelgawron3/odin-testing-practice/issues"
   },
-  "homepage": "https://github.com/pawelgawron3/odin-testing-practice#readme"
+  "homepage": "https://github.com/pawelgawron3/odin-testing-practice#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
 }
