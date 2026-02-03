@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/pawelgawron3/odin-testing-practice#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.29.0",
     "jest": "^30.2.0"
   }
 }
