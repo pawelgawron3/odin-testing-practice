@@ -5,7 +5,7 @@ describe("Test capitalize() function", () => {
     expect(capitalize).not.toBeUndefined();
   });
 
-  test("should take only a string argument", () => {
+  test("should only take a string argument", () => {
     expect(() => capitalize()).toThrow();
     expect(() => capitalize(4)).toThrow();
     expect(() => capitalize("abc")).not.toThrow();
